@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Naim Parvez</h1>
 <h3 align="center">I am Here To Build My DREAMS</h3>
-<p>Hello! I'm a student at Rajshahi University of Engineering and Technology. I love explore new tech and know about them. This GitHub account showcases the projects and experiments I've been working on. Explore my repositories to see what I've been up to!</p>
+<p>Hello! I'm a undergrad student at Rajshahi University of Engineering and Technology. I love explore new tech and know about them. This GitHub account showcases the projects and experiments I've been working on. Explore my repositories to see what I've been up to!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimparvez&label=Profile%20views&color=0e75b6&style=flat" alt="naimparvez" /> </p>
 
