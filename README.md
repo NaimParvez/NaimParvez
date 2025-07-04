@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Machine learning**
 
-- 📫 How to reach me **parveznaim7@gmail.com**
+- 📫 How to reach me **parveznaim0@gmail.com**
 
 - ⚡ Fun fact **I am a very good listener**
 
