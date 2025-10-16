@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/naim_parvez" target="blank"><img src="https://img.shields.io/twitter/follow/naim_parvez?logo=twitter&style=for-the-badge" alt="naim_parvez" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on ** Machine Learning Projects**
+- 🔭 I’m currently working on ** Computer Vision**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **AI & ML**
 
 - 👯 I’m looking to collaborate on **Building my Dreams**
 
