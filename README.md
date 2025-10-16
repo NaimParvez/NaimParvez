@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on ** Machine Learning Projects**
 
-- 🌱 I’m currently learning **AI And Machine Learning**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on **Building my Dreams**
 
